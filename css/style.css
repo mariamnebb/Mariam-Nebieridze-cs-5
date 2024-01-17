@@ -12,4 +12,13 @@ margin-top: 53px;
 .navigation{
     display: inline-block;
    
+
+}
+.liclass{
+    display: inline-block;
+   padding-top: 79px;
+    margin-left: 150px;
+    color:  #274C5B;
+    font-size: 20px;
+
 }
