@@ -31,7 +31,7 @@ margin-top: 53px;
     margin-top: 170px;
     background-color: #F9F8F8;
     width: 1400px;
-    height: 579px;
+    height: 579x;
     position: relative;
 }
 .h2{
@@ -85,7 +85,30 @@ margin-top: 53px;
         top: 0%;
         left: 0%;
         z-index: 100;
+        background-color: white;
     }
     .body{
         padding-top: 50px;
     }
+    .box{
+        width: 1118px;
+        background-color:  #F9F8F8;
+        margin-top: 200px;
+        margin-left: 390px;
+        position: relative;
+        
+    }
+    .div-boxes{
+        width: 257px;
+        height: 335px;
+        display: inline-block;
+        background-color: #7EB693;
+        
+        
+    }
+    .size{
+        margin-right: 30px;
+    
+    } 
+       
+    
