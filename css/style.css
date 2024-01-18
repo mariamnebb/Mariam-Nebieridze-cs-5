@@ -23,7 +23,6 @@ margin-top: 53px;
     color:  #274C5B;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
-
 }
 .div1{
     display: inline-block;
@@ -38,9 +37,7 @@ margin-top: 53px;
     font-family: 'Yellowtail';
     font-size: 36px;
     color: #7EB693;
-    margin-top: 120px
-    
-    ;
+    margin-top: 120px;
 }
 .paragraph{
     display: inline-block;
@@ -49,8 +46,6 @@ margin-top: 53px;
     padding-top: 30px;
     font-size: 50px;
     color: #274C5B;
-    
-    
 }
 .p2{ 
     width: 671px;
@@ -69,7 +64,6 @@ margin-top: 53px;
     background-color:#EBEBEB;
     border-radius: 15px;
     width: 600px;
-
 }
 .p3{
     position: absolute;
@@ -95,20 +89,108 @@ margin-top: 53px;
         background-color:  #F9F8F8;
         margin-top: 200px;
         margin-left: 390px;
-        position: relative;
-        
+         position: relative;
     }
     .div-boxes{
+       
         width: 257px;
         height: 335px;
         display: inline-block;
-        background-color: #7EB693;
-        
-        
+        background-color: #FFF;;
     }
     .size{
         margin-right: 30px;
     
     } 
+    .h2-text{
+        position: absolute;
+        left: 50px;
+        bottom: 300px;
+        top: 29px;
+        color: #274C5B;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+}   
+    .paragraph2{
+        display: inline-block;
+        width: 184px;
+        position: absolute;
+        left: 50px;
+        top: 78px;
+        color: #525C60;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Open Sans';
+    }
+    .H2-BOX2{
+        position: absolute;
+        left: 350px;
+        top:29px;
+        color: #274C5B;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+    }
+    .p2-box2{
+        display: inline-block;
+        width: 184px;
+        position: absolute;
+        left: 330px;
+        top:78px;
+        color: #525C60;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Open Sans';
+    }
+    .h2-box3{
+        position: absolute;
+        left: 620px;
+        top:29px;
+        color: #274C5B;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+    }
+    .p2-box3{
+        display: inline-block;
+        width: 184px;
+        position: absolute;
+        left: 620px;
+        top:78px;
+        color: #525C60;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Open Sans';
+    }
+    .h2-box4{
+        position: absolute;
+        left: 900px;
+        top:29px;
+        color: #274C5B;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+    }
+    .p2-box4{
+        display: inline-block;
+        width: 184px;
+        position: absolute;
+        left: 900px;
+        top:78px;
+        color: #525C60;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Open Sans';
+    }
+    
+
+    
+    
+    
        
     
